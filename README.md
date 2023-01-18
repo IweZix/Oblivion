@@ -13,7 +13,7 @@
 <!-- Presentation -->
 # 📜 Presentation
 Oblivion is a very simplistic password generator.
-You can find executable file for Windows [here]().
+You can find executable file for Windows [here](https://github.com/IweZix/Oblivion/tree/main/windows).
 <br>
 Or you can use the [source code](https://github.com/IweZix/Oblivion/blob/main/main.py) to create your own executable file.
 
@@ -26,12 +26,12 @@ Or you can use the [source code](https://github.com/IweZix/Oblivion/blob/main/ma
 - [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/)
 
 <!-- Installation -->
-# 🛠️ Installation
+# 🛠️ Installation (Windows)
 > To install Oblivion, you must first clone the repository :
 ```
 git clone https://github.com/IweZix/Oblivion.git
 ```
-> Then, you must install clipboard :
+> Then, you must install pystyle :
 ```
 pip install pystyle
 ```
@@ -44,9 +44,23 @@ pip install install auto-py-to-exe
 auto-py-to-exe
 ```
 
+# 🛠️ Installation (MacOS)
+> To install Oblivion, you must first clone the repository :
+```
+git clone https://github.com/IweZix/Oblivion.git
+```
+> Then, you must install pystyle :
+```
+pip install pystyle
+```
+> Then, you can run the program :
+```
+python main.py
+```
+
 # 📝 License
 
-GPP is licensed under the [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Oblivion is licensed under the [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 If you want to use Oblivion code to create your own password generator, please upload your new code on GitHub mentioning IweZix.
 
