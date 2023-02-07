@@ -1,6 +1,13 @@
 import random
 from pystyle import *
 
+try:
+    from pystyle import *
+except ImportError:
+    input(
+        f"Module pystyle not installed, to install run '{'py -3' if os.name == 'nt' else 'python3.8'} -m pip install pystyle'\nYou can ignore this error if you aren't going to use a webhook.\nPress enter to continue.")
+
+
 System.Title('GenPassword')
 
 banner = """
