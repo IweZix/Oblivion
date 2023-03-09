@@ -64,10 +64,4 @@ Oblivion is licensed under the [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3
 
 If you want to use Oblivion code to create your own password generator, please upload your new code on GitHub mentioning IweZix.
 
-Find below the link of my YouTube channel, where you can find tutorials on how to use Oblivion.
-
 For any questions or requests, please contact me either by Discord **IweZix#8370** or **contact@iwezix.xyz**
-
-<a href="https://youtube.com/iwezix" target="blank">
-    <img align="center" src="images/readme/youtube.png" alt=""/>
-</a>
